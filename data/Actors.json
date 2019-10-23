@@ -2,5 +2,5 @@
 null,
 {"id":1,"battlerName":"Mark Battler","characterIndex":0,"characterName":"Mark","classId":2,"equips":[1,0,0,5,0],"faceIndex":0,"faceName":"Mark","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mark","nickname":"Princess D-Cups","note":"","profile":"A large breasted ape man."},
 {"id":2,"battlerName":"Dan","characterIndex":0,"characterName":"Dan","classId":1,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"Dan","traits":[],"initialLevel":6,"maxLevel":99,"name":"Dan","nickname":"Dan the Magnificent","note":"","profile":"An all-round great guy."},
-{"id":3,"battlerName":"statham battler","characterIndex":0,"characterName":"Statham","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Statham","traits":[],"initialLevel":9,"maxLevel":99,"name":"Jason Statham","nickname":"","note":"","profile":"Greatest actor of our time. Probably all time."}
+{"id":3,"battlerName":"statham battler","characterIndex":0,"characterName":"Statham","classId":5,"equips":[6,0,0,0,0],"faceIndex":0,"faceName":"Statham","traits":[],"initialLevel":9,"maxLevel":99,"name":"Jason Statham","nickname":"J-Ham","note":"","profile":"Greatest actor of our time. Probably all time."}
 ]
