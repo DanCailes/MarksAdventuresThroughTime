@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"list":[{"code":124,"indent":0,"parameters":[0,60]},{"code":0,"indent":0,"parameters":[]}],"name":"Cocaine","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":101,"indent":0,"parameters":["Dan",0,0,2]},{"code":401,"indent":0,"parameters":["Awesome! That's the last one! We've got"]},{"code":401,"indent":0,"parameters":["all the parts to repair your melons."]},{"code":101,"indent":0,"parameters":["Dan",0,0,2]},{"code":401,"indent":0,"parameters":["Let's go see the mechanic!"]},{"code":0,"indent":0,"parameters":[]}],"name":"All tit parts","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
