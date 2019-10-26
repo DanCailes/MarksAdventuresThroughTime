@@ -25,5 +25,5 @@ null,
 {"id":23,"expanded":false,"name":"Office 2F","order":18,"parentId":5,"scrollX":1081.3333333333333,"scrollY":836},
 {"id":24,"expanded":false,"name":"School Classroom GF1","order":19,"parentId":5,"scrollX":832,"scrollY":640},
 {"id":25,"expanded":false,"name":"School Classroom 2F","order":22,"parentId":22,"scrollX":832,"scrollY":640},
-{"id":26,"expanded":true,"name":"Fishing Village past","order":26,"parentId":0,"scrollX":1081.3333333333333,"scrollY":849.3333333333334}
+{"id":26,"expanded":true,"name":"Fishing Village past","order":26,"parentId":0,"scrollX":1081.3333333333333,"scrollY":604}
 ]
